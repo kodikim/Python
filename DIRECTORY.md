@@ -899,9 +899,9 @@
 ## Sorts
   * [Bead Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bead_sort.py)
   * [Bitonic Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bitonic_sort.py)
-  * [Bogo Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bogo_sort.py)
-  * [Bubble Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py)
-  * [Bucket Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bucket_sort.py)
+  * [Bogo Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bogo_sort.py) O(infinity)
+  * [Bubble Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bubble_sort.py) O(n^2)
+  * [Bucket Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bucket_sort.py) O(n)
   * [Cocktail Shaker Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/cocktail_shaker_sort.py)
   * [Comb Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/comb_sort.py)
   * [Counting Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/counting_sort.py)
