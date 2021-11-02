@@ -904,7 +904,7 @@
   * [Bucket Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/bucket_sort.py) O(n)
   * [Cocktail Shaker Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/cocktail_shaker_sort.py)
   * [Comb Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/comb_sort.py)
-  * [Counting Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/counting_sort.py)
+  * [Counting Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/counting_sort.py) O(n)
   * [Cycle Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/cycle_sort.py)
   * [Double Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/double_sort.py)
   * [Dutch National Flag Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/dutch_national_flag_sort.py)
